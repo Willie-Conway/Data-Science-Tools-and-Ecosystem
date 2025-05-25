@@ -1,6 +1,6 @@
 # 📊 Data Science Tools & Arithmetic with Python 🐍
 
-## Overview 👋
+## Overview 👋🏿
 
 Welcome to this notebook! In this document, we will explore the essential **tools, libraries, and programming languages** used in the field of **Data Science**. You'll also see some basic arithmetic operations demonstrated using **Python**.
 
@@ -89,7 +89,7 @@ print(200 / 60)  # Output: 3.3333333333333335
 
 ---
 
-## Author ✍️
+## Author ✍🏿
 
 **Willie Conway**
 
